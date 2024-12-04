@@ -1,16 +1,10 @@
 # Mario
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Whack-a-Mole Game - README</title>
-</head>
+
 <body>
     <h1>Whack-a-Mole Game - Mario Themed</h1>
-
     <h2>Description</h2>
     <p>This is a fun, Mario-themed Whack-a-Mole game where players click on moles as they pop up from pipes. Quick reflexes and fast clicks are key to achieving a high score in this nostalgic, action-packed arcade game!</p>
-
     <h2>Features</h2>
     <ul>
         <li>Mario-themed graphics with pipes, moles, and piranha plants.</li>
@@ -19,15 +13,13 @@
         <li>Game Over if you click on a plant!</li>
         <li>Score displayed at the top of the screen.</li>
     </ul>
-
     <h2>Installation</h2>
     <p>To run the game locally, simply download the repository and open the <code>index.html</code> file in your browser.</p>
     <ol>
         <li>Clone the repository using Git:</li>
-        <pre><code>git clone https://github.com/your-username/whack-a-mole.git</code></pre>
+        <pre><code>git clone https://github.com/your-Tarf5100/whack-a-mole.git</code></pre>
         <li>Open the <code>index.html</code> file in your browser to start playing.</li>
     </ol>
-
     <h2>How to Play</h2>
     <ul>
         <li>Click on the mole when it pops up from the pipe to score points.</li>
@@ -35,7 +27,6 @@
         <li>Keep track of your score at the top of the screen.</li>
         <li>Enjoy the game and challenge yourself to get the highest score!</li>
     </ul>
-
     <h2>Assets</h2>
     <ul>
         <li><strong>monty-mole.png</strong>: Image for the mole character.</li>
@@ -44,12 +35,10 @@
         <li><strong>soil.png</strong>: Background image for the game board.</li>
         <li><strong>mario-bg.jpg</strong>: Background image for the game.</li>
     </ul>
-
     <h2>Credits</h2>
-    <p>This game was created by <strong>Your Name</strong> as a fun project to practice JavaScript and game development. Special thanks to the creators of the assets used in the game.</p>
+    <p>This game was created by <strong>https://github.com/ImKennyYip</strong> as a fun project to practice JavaScript and game development. Special thanks to the creators of the assets used in the game.</p>
 
-    <h2>License</h2>
-    <p>This project is open source and available under the <strong>MIT License</strong>.</p>
+
 </body>
 </html>
 
