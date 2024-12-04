@@ -1,0 +1,36 @@
+body{
+	font-family:Arial;
+	text-align:center;
+	background:url("mario-bg.jpg");
+	background-size:cover;
+}
+
+ #board{
+width:700px;
+height:700px;
+margin-left:0 auto; 
+display:flex;
+flex-wrap:wrap;
+background:url("soil.png");
+background-size:cover;
+border:5px solid white;
+border-radius:25px;
+
+}
+
+ #board div {
+width:200px;
+height:200px;
+background-image:url("pipe.png");
+	background-size:cover;
+	margin:0 auto;
+}
+ #board div img{
+	width:100px;
+ height:100px;
+ /*
+ user-select:none;
+ -moz-user-select:none;
+ -webkit-user-drag=none; 
+ */
+ }
