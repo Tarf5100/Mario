@@ -36,7 +36,7 @@
         <li><strong>mario-bg.jpg</strong>: Background image for the game.</li>
     </ul>
     <h2>Credits</h2>
-    <p>This game was created by <strong>https://github.com/ImKennyYip</strong> as a fun project to practice JavaScript and game development. Special thanks to the creators of the assets used in the game.</p>
+    <p>This game was created by <strong>https://github.com/ImKennyYip</strong> as a fun project to practice JavaScript and game development. Special thanks to the creator.</p>
 
 
 </body>
